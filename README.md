@@ -1,1 +1,1 @@
-# Git Explorinz
+# GIT EXPLORINZ
