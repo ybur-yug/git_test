@@ -1,1 +1,1 @@
-# Git Exploration
+# Git Explorinz
